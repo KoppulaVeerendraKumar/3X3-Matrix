@@ -1,12 +1,12 @@
-###3x3 Matrix Game
+### 3x3 Matrix Game
 
 A simple interactive 3x3 matrix game built using React.js. Click on a box to change its color to green, and when the last box is clicked, all boxes change to orange in the order they were clicked.
 
-###🚀 Live Demo:https://3x3matrix-ten.vercel.app/
+### 🚀 Live Demo:https://3x3matrix-ten.vercel.app/
 
 🔗 3x3 Matrix Game on Vercel
 
-###📌 Features
+### 📌 Features
 
 Click a box to turn it green.
 
@@ -18,7 +18,7 @@ Smooth transition effects.
 
 Fully responsive and deployed on Vercel.
 
-###🛠 Tech Stack
+### 🛠 Tech Stack
 
 React.js (Frontend Framework)
 
